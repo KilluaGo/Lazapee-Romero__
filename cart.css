@@ -4,21 +4,19 @@ table {
     border-spacing: 2px;
   border-collapse: collapse;
   width: 100%;
-background-color:#ffffff;
-	border-bottom-color: #eff0f5;
-	border-style: solid;
-	
+background-color:#ffffff;	
 }
+
 tr:hover {
           background-color: #ececec ;
-	border-bottom-color: #eff0f5;
-	border-style: solid;
         }
 
 td,th  {
   border-bottom-color: #eff0f5;
   text-align: left;
   padding: 8px;
+		border-bottom-top: #eff0f5;
+	border-style: solid;
 }
 th {
   text-align: center;
