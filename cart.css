@@ -15,8 +15,7 @@ td,th  {
   border-bottom-color: #eff0f5;
   text-align: left;
   padding: 8px;
-		border-bottom-top: #eff0f5;
-	border-style: solid;
+border-style: solid;
 }
 th {
   text-align: center;
