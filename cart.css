@@ -5,13 +5,14 @@ table {
   border-collapse: collapse;
   width: 100%;
 background-color:#ffffff;
+	border-bottom-color: #eff0f5;
 }
 tr:hover {
           background-color: #ececec ;
         }
 
 td,th  {
-  border-bottom: #eff0f5;
+  border-bottom-color: #eff0f5;
   text-align: left;
   padding: 8px;
 }
