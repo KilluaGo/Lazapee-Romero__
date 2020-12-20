@@ -4,13 +4,13 @@ h1 {
 
 .container-content
 {
-
-    background: #eff0f5;
+    background: #ffffff;
     width: 90%;
+    height: auto;
     margin: auto;
     padding: 20px;
     margin-bottom: 40px;
-}
+margin-top: 40px;
 
 
 .container-content img{
