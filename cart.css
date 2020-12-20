@@ -12,10 +12,9 @@ tr:hover {
         }
 
 td,th  {
-  border-bottom-color: #eff0f5;
+  border-top-color: #eff0f5;
   text-align: left;
   padding: 8px;
-border-style: solid;
 }
 th {
   text-align: center;
