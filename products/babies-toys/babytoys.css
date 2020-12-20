@@ -4,10 +4,7 @@ h1 {
 
 .container-content
 {
-    display: flex;
-    flex-wrap: wrap;
-    align-content: flex-start;
-    justify-content: center;
+
     background: #ffffff;
     width: 90%;
     margin: auto;
