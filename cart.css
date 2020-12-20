@@ -23,7 +23,7 @@ tr:hover {
         }
 
 td,th  {
-  border-top-color: #eff0f5;
+	  border-bottom: 1px solid #eff0f5;
   text-align: left;
   padding: 8px;
 }
@@ -64,4 +64,6 @@ td {
     h1 {
     text-align: center;
     }
-
+a {
+  text-decoration: none;
+}
