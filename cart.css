@@ -35,28 +35,25 @@ td {
 }
 
         @media screen and (max-width: 1225px) and (min-width: 1045px) {
-		.priority-6{
+		.priority-1{
 			display:none;
 		}
 	}
 	
-	@media screen and (max-width: 1045px) and (min-width: 835px) {
-		.priority-6{
+	@media screen and (max-width: 1045px) and (min-width: 600px) {
+		.priority-1{
 			display:none;
 		}
-		.priority-5{
+		.priority-2{
 			display:none;
 		}
 	}
 	
-	@media screen and (max-width: 565px) and (min-width: 300px) {
-		.priority-6{
+	@media screen and (max-width: 600px) and (min-width: 300px) {
+		.priority-1{
 			display:none;
 		}
-		.priority-5{
-			display:none;
-		}
-		.priority-4{
+		.priority-2{
 			display:none;
 		}
 	}
