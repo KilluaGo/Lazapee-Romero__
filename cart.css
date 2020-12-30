@@ -34,13 +34,13 @@ td {
   text-align: left;
 }
 
-        @media screen and (max-width: 1225px) and (min-width: 1045px) {
+        @media screen and (max-width: 1225px) and (min-width: 780px) {
 		.priority-1{
 			display:none;
 		}
 	}
 	
-	@media screen and (max-width: 1045px) and (min-width: 600px) {
+	@media screen and (max-width: 780px) and (min-width: 700px) {
 		.priority-1{
 			display:none;
 		}
@@ -49,7 +49,7 @@ td {
 		}
 	}
 	
-	@media screen and (max-width: 600px) and (min-width: 300px) {
+	@media screen and (max-width: 700px) and (min-width: 300px) {
 		.priority-1{
 			display:none;
 		}
