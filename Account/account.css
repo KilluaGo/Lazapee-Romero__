@@ -40,7 +40,7 @@ a {
   text-decoration: none;
   color:#252f7b;
   float: right;
-  margin-right:3%;
+  padding-right:3%;
 }
 a:hover {
 color:#f95031;
