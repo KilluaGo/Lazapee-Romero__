@@ -33,6 +33,8 @@ th {
 td {
   text-align: left;
 }
+.last td{
+border-bottom: none;}
 
         @media screen and (max-width: 1225px) and (min-width: 780px) {
 		.priority-1{
