@@ -15,7 +15,7 @@
     border: none;
     border-radius: 4px;
     cursor: pointer;
-    float: right;
+    float: center;
     border-color: #cacaca;
     position:center;
 
@@ -49,9 +49,6 @@ td,th  {
 
   text-align: left;
   padding: 8px;
-}
-th {
-  text-align: center;
 }
 td {
   text-align: left;
